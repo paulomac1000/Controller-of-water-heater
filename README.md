@@ -12,3 +12,5 @@ Ustawienia są automatycznie zapisywane przy przygaśnięciu ekranu (o ile zosta
 Obecny stan ustawień i odczyt temperatury jest na bieżąco wyswietlany na ekranie.
 
 Wykorzystano gotowe biblioteki obsługi wyswietlacza i termometru wzbogacając je o dodatkowe mozliwości wynikajace z programowania w C++ (biblioteki były pisane pod C).
+
+Pierwsza wersja sterownika została napisana na początku 2014 roku, jednakże funkcjonalność była dość skromna, więc w oparciu o nią pół roku później stworzyłem wersję rozszerzoną wykorzystującą możliwości programowania obiektowego i opierając się o paradygmaty programowania.
