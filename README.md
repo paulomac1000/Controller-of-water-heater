@@ -1,4 +1,4 @@
-# podgrzewacz
+# Controller of water heater
 Sterownik podgrzewacza wody (Atmega8 + Eclipse + C++)
 
 W starym, 20-letnim podgrzewaczu popsuła się elektronika. Ponieważ sam podgrzewacz był sprawny, przy uzyciu kilku części zbudowałem układ oparty o mikroprocesor Atmega8. Układ ten ma za zadanie generować (przy uzyciu przerwań) impuls, który zostanie przekazany na optotriaka. Zależnie od częstości wystąpienia impulsu podgrzewacz będzie działał z różna mocą. jest to wazne, ponieważ bezpiecznik jest słabszy niż maksymalna moc podgrzewacza.
